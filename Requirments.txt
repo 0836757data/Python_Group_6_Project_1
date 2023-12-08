@@ -1,0 +1,2 @@
+Following collection, the data ought to be kept in a SQLite database. The sqlite3 package is used for creating databases and tables as well as inserting data, and all the data is in one table.
+The data (or a small sample) and is  presented through a website. It was done using  flask
